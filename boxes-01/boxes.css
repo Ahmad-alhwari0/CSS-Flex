@@ -1,0 +1,16 @@
+body{
+    background-color: #6f1374;
+}
+.box1, .box2, .box3, .box4 {
+    width: 200px;
+    height: 200px;
+    background-color: #f0ecec;
+}
+
+
+.container{
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;  
+
+}

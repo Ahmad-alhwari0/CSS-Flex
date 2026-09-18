@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  width: 100%;
+}
+.box1 {
+  background-color: #35e286;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  width: 70%;
+  
+
+}
+.box2 {
+  background-color: #279fe0;
+  
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  width: 30%;
+
+}
